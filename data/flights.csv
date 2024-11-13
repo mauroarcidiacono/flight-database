@@ -1,0 +1,11 @@
+flight_id,aircraft_id,pilot_id,origin,destination,flight_status
+1,1,1,New York,Los Angeles,Scheduled
+2,2,2,Chicago,Miami,Delayed
+3,3,3,Dallas,Phoenix,Cancelled
+4,1,2,Los Angeles,Chicago,Scheduled
+5,2,1,Miami,New York,On Time
+6,2,3,Phoenix,Dallas,Delayed
+7,3,2,Chicago,Dallas,On Time
+8,1,3,New York,Phoenix,Scheduled
+9,3,1,Dallas,Los Angeles,On Time
+10,2,2,Miami,Phoenix,Cancelled

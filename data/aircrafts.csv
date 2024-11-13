@@ -1,0 +1,4 @@
+aircraft_id,aircraft_name,aircraft_type,capacity,aircraft_status
+1,Boeing 747,Jet,400,Active
+2,Airbus A320,Jet,200,Active
+3,Cessna 172,Propeller,4,Maintenance
